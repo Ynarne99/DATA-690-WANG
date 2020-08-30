@@ -11,12 +11,12 @@ To be a successful programmer showcasing the skillset is really important in mod
 
 Headings: To site any headings for the text or to notify something important.
    The font of the headings can be customised by the following sysntaxes.
-    # H1 
-    ## H2
-    ### H3
+    # H1 - large font
+    ## H2 - smaller in font than H1 
+    ### H3 - smaller in font than H2
     
 Bold : To represent any text in bold format
-  The syntax is ** bold text**
+  The syntax is **bold text**
   
 Italic : To represent any text in italics
   The syntax is *italiczed text*

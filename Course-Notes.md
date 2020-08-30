@@ -1,4 +1,4 @@
-# Notes from the class on 08/27/2020
+## Notes from the class on 08/27/2020
 
 1.This is the first class of Stats and Vizualization and have started the class with good introductions.
 2.It was really interesting to discuss about each others professional career and all being related to data analysis from so many different backgrounds.
@@ -27,11 +27,11 @@
     2. 2. Item2
     3. 3. Item3
    
-Unordered list : To list things that are intended to add inbetween 
-  The syantax as follows:
-    - Item1
-    - Item2
-    - Item3
+5. Unordered list : To list things that are intended to add inbetween 
+   The syantax as follows:
+    1. - Item1
+    2. - Item2
+    3. - Item3
     
  ### Discussed about the cloud platform notebook.ai
  1.Created a test project 
